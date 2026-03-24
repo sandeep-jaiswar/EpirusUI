@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@config "../../../packages/tailwind-config/tailwind.config.ts";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}

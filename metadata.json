@@ -1,0 +1,5 @@
+{
+  "name": "Digital Curator Design System",
+  "description": "A high-end editorial design system built with Turborepo, React, Tsup, and Storybook.",
+  "requestFramePermissions": []
+}
